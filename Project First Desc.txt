@@ -1,0 +1,10 @@
+A combination of Pac-Man and Missle Commander
+
+Mini pac-man game going on below, being played with the WASD keys without enemies. The goal is to complete the Pac-Man game
+before the missles destroy the game. There will be 5 levels of Pac-Man, which are just more and more complicated Pac-Man levels.
+There will not be a change in difficulty with the missles though.
+There will be no enemies in the pacman so you do not need to worry about that.
+
+Controls:
+WASD to move Pac-Man
+Mouse+Click to shoot down missiles
