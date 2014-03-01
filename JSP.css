@@ -10,47 +10,18 @@ a{
 color:black;
 }
 
-#INS{
-border:groove #1A1A1A 10px;
-text-align:center;
-width:350px;
-height:225px;
-/*positioning*/
-margin:0px auto;
-top:150px;
-left:400px;
-font-family:Impact;
-font-size:25px;
-}
-
-
-
-#MC_GAME{
-text-align:center;
-/*size*/
-height:200px;
-width:400px;
-/*Asthetics*/
-border:groove #1A1A1A 10px;
-font-family:Impact;
-font-size:25px;
-/*positioning*/
-margin:0px auto;
-top:150px;
-left:400px;
-}
 
 #enchant-stage{
 text-align:center;
 /*size*/
-height:212px;
-width:164px;
+/*height:168px;
+width:208px;*/
 /*Asthetics*/
 border:groove #1A1A1A 10px;
 font-family:Impact;
 font-size:25px;
 /*positioning*/
-margin:0px auto;
+/*margin:0px auto;
 top:150px;
-left:400px;
+left:400px;*/
 }
